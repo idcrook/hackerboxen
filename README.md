@@ -3,7 +3,15 @@
 See https://hackerboxes.com/
 
 
- 1. [#0038 - Teknodactyl](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0038-teknodactyl)
- 1. [#0039 - Level Up](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0039-power-up)
- 1. [#0040 - PIC of Destiny](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0040-pic-of-destiny)
- 1. [#0041 - CircuitPython](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0041-circuitpython)
+## [#0038 - Teknodactyl](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0038-teknodactyl)
+
+
+## [#0039 - Level Up](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0039-power-up)
+
+## [#0040 - PIC of Destiny](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0040-pic-of-destiny)
+
+Notable:
+
+ - [gps_clock](hb_0040/projects/MPLABXProjects/gps_clock.X) - PIC µC displaying GPS time (UTC) on 20x4 Character LCD Display
+
+## [#0041 - CircuitPython](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0041-circuitpython)
