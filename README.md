@@ -1,6 +1,9 @@
 # hackerboxen
 
-See https://hackerboxes.com/
+See https://hackerboxes.com/ - *The Monthly Subscription Box for DIY Electronics and Computer Technology*
+
+ - [instructables](https://www.instructables.com/member/HackerBoxes/), [reddit](https://www.reddit.com/r/hackerboxes/)
+ - on [twitter](https://twitter.com/HackerBoxes)
 
 
 ## [#0038 - Teknodactyl](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0038-teknodactyl)
