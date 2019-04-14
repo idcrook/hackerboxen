@@ -1,6 +1,8 @@
 
 # GPS clock
 
+![GPS clock animation](gps_clock.gif "GPS clock running on PIC µC")
+
 Uses a GPS receiver and PIC µC to display UTC on LCD
 
  - Update suggested code/examples to work with an available 20x4 Character LCD display
