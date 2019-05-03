@@ -7,7 +7,7 @@ Chipset:
   idVendor           0x0bda Realtek Semiconductor Corp.
   idProduct          0xb812
 
-`rtl8822bu`?
+`rtl8812bu`?
 
 ```
 [  575.800051] usb 3-1: new high-speed USB device number 2 using xhci_hcd
@@ -30,6 +30,11 @@ sudo dkms add ./rtl88x2BU_WiFi_linux_v5.3.1_27678.20180430_COEX20180427-5959
 sudo dkms install -m rtl88x2bu -v 5.3.1
 sudo modprobe -v 88x2bu
 ```
+
+Driver works
+
+dmesg warns about fuse error and a lot of diagnostics
+
 
 
 ### driver source version archives
