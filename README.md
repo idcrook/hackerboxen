@@ -18,3 +18,5 @@ Notable:
  - [gps_clock](hb_0040/projects/MPLABXProjects/gps_clock.X) - PIC µC displaying GPS time (UTC) on 20x4 Character LCD Display
 
 ## [#0041 - CircuitPython](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0041-circuitpython)
+
+## [#0042 - Worlds of WiFi](https://hackerboxes.com/collections/past-hackerboxes/products/hackerbox-0041-circuitpython)
