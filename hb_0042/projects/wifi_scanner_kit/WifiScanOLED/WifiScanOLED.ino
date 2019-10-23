@@ -1,4 +1,4 @@
-#include <Wire.h>  
+
 #include "SSD1306Wire.h" 
 #include "ESP8266WiFi.h"
 
