@@ -7,6 +7,20 @@ Uses a GPS receiver and PIC µC to display UTC on LCD
 
  - Update suggested code/examples to work with an available 20x4 Character LCD display
 
+### Based also on Project
+
+
+Make a GPS Clock With a PIC Microcontroller
+
+[[PDF]](../../../doc/Make_a_GPS_Clock_With_a_PIC_Microcontroller_-_Projects.pdf)
+
+#### GPS Module Pinout
+
+
+- GPS Module datasheet [[PDF]](../../../doc/VK2828U7G5LF_Data_Sheet_20150902.pdf)
+
+![GPS module pinout](../../../doc/gps_module_pinout.png "GPS module pinout image")
+
 ## Main code
 
 Microchip PIC IDE (MP IDE) was used to build and deploy (using PICkit™3) the code.
